@@ -63,5 +63,29 @@ Maria | Capricórnio de **Janeiro** | Roxo
 Vanessa | Sagitário de **Dezembro** | Azul Bebê
 
 9. ### Inserindo [Links](https://github.com/LucasHenrique-dev/ComandosMarkdownGitHub):
-   * Usa-se "[]()", onde dentro do parênteses vai a url, ou seja, o endereço da página que você quer mostrar e nos colchetes o tipo de mensagem que você quer que apareça, se nada for colocado aparecerá apenas o endereço.
-   
+   * Usa-se "[]" seguido, sem espaço, de "()", onde dentro do parênteses vai a url, ou seja, o endereço da página que você quer mostrar e nos colchetes o tipo de mensagem que você quer que apareça, se nada for colocado aparecerá apenas o endereço. Ex.: O código "[GitHub]""(https://github.com/LucasHenrique-dev)", gera -> [GitHub](https://github.com/LucasHenrique-dev).
+1. ### Fazendo Menções:
+   * Usa-se "@" seguido pelo apelido da pessoa a quem se quer mencionar, serve como um link para a página inicial dessa pessoa no GitHub e para chamar a atenção de quem foi mencionado. Pondo-se "@" já aparecem algumas opções que são baseadas em atividades recentes daquele local em que se está, não sendo assim, restrito usar apenas os que aparecem, basta apenas digitar o nome desejado. Ex.: Venha conhecer o meu GitHub: @LucasHenrique-dev 
+1. ### Fazendo "Citações":
+   * Diferentemente do tradicional, tem-se uma forma específica e distinta da usual de se usar citação, nela usa-se ">" seguido de um espaçamento e logo após o que se quer mencionar.
+
+> "Ou você morre como um herói, ou vive o suficiente para ver você se tornar o vilão".
+
+* No caso de citações, o quanto você escrever fará parte da citação, para acabá-la basta dar um intervalo de uma linha.
+12. ### Referenciando Issues, ~~!ERROR~~:
+   * Estando-se em uma Issue de um trabalho qualquer você pode referenciar uma outra, estando ela fazendo parte do grupo de Issues do próprio repositório em que está interagindo, usando "#" e a numeração da Issue que se quer referenciar. Ex.: #2, gera um link que lhe leva para a Issue número 2 daquele repositório em questão, caso não exista o link não será ativado/referenciado.
+13. ### Criando Linhas divisórias:
+   * Usa-se "---" ou "***" na linha seguinte a que se deseja utilizar. 
+Ex.:
+Texto
+"---" (Ocorreu a separação)
+Continuação do texto
+
+# Elementos Visuais:
+---
+1. ### Inserindo Imagens/gifs/vídeos:
+   * Basta apenas tê-lo salvo no seu computador e jogar aqui na caixa de texto, é necessário esperar que o sistema carregue a informação para que possa ser mostrado corretamente, por padrão o seu formato é "![]""()", parecido com o de link, apenas contendo a interrogação "!" na frente dos colchetes.
+
+![justicetocat](https://user-images.githubusercontent.com/62728919/78955921-1d748200-7ab7-11ea-8538-79efd1697d7a.jpg)
+
+* Imagem pegue do site [Octodex](https://octodex.github.com/) e feita por @heyhayhay.
