@@ -83,9 +83,15 @@ Continuação do texto
 
 # Elementos Visuais:
 ---
-1. ### Inserindo Imagens/gifs/vídeos:
+1. ### Inserindo Imagens:
    * Basta apenas tê-lo salvo no seu computador e jogar aqui na caixa de texto, é necessário esperar que o sistema carregue a informação para que possa ser mostrado corretamente, por padrão o seu formato é "![]""()", parecido com o de link, apenas contendo a interrogação "!" na frente dos colchetes.
 
 ![justicetocat](https://user-images.githubusercontent.com/62728919/78955921-1d748200-7ab7-11ea-8538-79efd1697d7a.jpg)
 
 * Imagem pegue do site [Octodex](https://octodex.github.com/) e feita por @heyhayhay.
+
+2. ### Inserindo Emojis 😎 :
+  * Usa-se ":" seguido, sem espaço do nome do emoji e finalizado com ":". Ex.: Para fazer o Emoji de óculos escuros é necessário escrever ":"sunglasses"":"
+   * Para saber mais sobre os atalhos de cada emoji veja o incrível trabalho que @ikatyang fez no seu repositório [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet), vai lá dá uma acessada! 😉
+
+-> Chegando aqui você já tem uma boa ideia de como trabalhar com os Markdown para o GitHub, querendo saber mais você pode visitar o site do GitHubGuides, [Clicando aqui](https://guides.github.com/features/mastering-markdown/).
