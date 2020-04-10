@@ -76,6 +76,7 @@ Vanessa | Sagitário de **Dezembro** | Azul Bebê
    * Estando-se em uma Issue de um trabalho qualquer você pode referenciar uma outra, estando ela fazendo parte do grupo de Issues do próprio repositório em que está interagindo, usando "#" e a numeração da Issue que se quer referenciar. Ex.: #2, gera um link que lhe leva para a Issue número 2 daquele repositório em questão, caso não exista o link não será ativado/referenciado.
 13. ### Criando Linhas Divisórias:
    * Usa-se "---" ou "***" na linha seguinte a que se deseja utilizar. 
+   
 Ex.:
 Texto
 
