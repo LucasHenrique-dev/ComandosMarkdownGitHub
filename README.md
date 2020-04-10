@@ -78,7 +78,9 @@ Vanessa | Sagitário de **Dezembro** | Azul Bebê
    * Usa-se "---" ou "***" na linha seguinte a que se deseja utilizar. 
 Ex.:
 Texto
+
 "---" (Ocorreu a separação)
+
 Continuação do texto
 
 # Elementos Visuais:
