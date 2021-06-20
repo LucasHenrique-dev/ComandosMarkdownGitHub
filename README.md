@@ -36,7 +36,7 @@ return 0;
 6. ### Utilizando listas:
    * Para fazer uma lista não numerada, ou seja, apenas a marcação do ponto, usa-se um asterisco "*" ou um sinal de menos "-", dá-se um espaçamento e começa a escrever o que quer.
    * Já para listas numeradas usa-se "1." e espaçamento, para dar seguimento a numeração basta apenas utilizar de novo o "1." ou qualquer outro número que você queira, caso necessite especificar.
-   1. Para listas encadeadas e necessário já ter um lista formada, após isso, quando for criar a outra numeração, dê 3 espaços e comece.
+   1. Para listas encadeadas é necessário já ter um lista formada, após isso, quando for criar a outra numeração, dê 3 espaços e comece.
       1. Você pode encadear quantas vezes quiser, basta repetir o processo.
           a'. Funciona também para as listas não numeradas... lembrando que você também pode personalizar o índice que irá aparecer, basta apenas trocar o "1" pelo o que você quiser mostrar.
 
